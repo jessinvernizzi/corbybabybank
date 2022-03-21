@@ -146,7 +146,7 @@ html {
 
 /* the hero image */
 .hero-image-Home {
-  background-image: url(../BearNecessitiesV2/images/BannerImage.png);
+  background-image: url(images/BannerImage.png);
   height: 70%;
   background-position: top;
   background-position-y: -100px;
@@ -156,7 +156,7 @@ html {
 }
 
 .hero-image-WhatIsABabyBank {
-  background-image: url(../BearNecessitiesV2/images/muslin.png);
+  background-image: url(images/muslin.png);
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -165,7 +165,7 @@ html {
 }
 
 .hero-image-WhyAreWeNeeded {
-  background-image: url(../BearNecessitiesV2/images/motherBlur.png);
+  background-image: url(images/motherBlur.png);
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -174,7 +174,7 @@ html {
 }
 
 .hero-image-HowWeWillGetThere {
-  background-image: url(../BearNecessitiesV2/images/toddler\ bunting-1.png);
+  background-image: url(/images/toddler\ bunting-1.png);
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -192,7 +192,7 @@ html {
 }
 
 .hero-image-Donate {
-  background-image: url(../BearNecessitiesV2/images/itemsBunny.png);
+  background-image: url(images/itemsBunny.png);
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -201,7 +201,7 @@ html {
 }
 
 .hero-image-Volunteer {
-  background-image: url(../BearNecessitiesV2/images/dadReading.png);
+  background-image: url(images/dadReading.png);
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
@@ -210,7 +210,7 @@ html {
 }
 
 .hero-image-contact {
-  background-image: url(../BearNecessitiesV2/images/phone-table.png);
+  background-image: url(images/phone-table.png);
   height: 70%;
   background-position: center;
   background-repeat: no-repeat;
